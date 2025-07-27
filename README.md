@@ -59,10 +59,7 @@ After compiling, execute the program:
 - **Deletion:** Delete files and directories with confirmation.
 - **File Viewing:** Open multimedia, text, or archive files.
 
-## Contributing
-Since this project is for educational purposes, contributions are welcome, especially in the form of code improvements, bug fixes, or additional learning resources. Feel free to fork the repository and submit a pull request with your enhancements.
-
 ## License
 
-This project is licensed under the **MIT License**.
+This project was developed for academic purposes only, as part of a university course.
 
